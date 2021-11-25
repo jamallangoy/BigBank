@@ -1,12 +1,12 @@
 # BigBank
 
-<img src="https://cdn.pixabay.com/photo/2020/04/24/06/46/piggy-money-bank-5085515_1280.png" width="200px" height="200px" />
+<img src="https://github.com/jamallangoy/BigBank/blob/master/public/images/Big%20Bank%20Snippet.PNG" width="600px" height="400px" />
 
-## Version 1 - Week 15: Working with Simple Components (MIT XPro, August 2021)
+## Version 1 - Week 27: Full-Stack ATM called "BigBank" (MIT XPro, November 2021)
 
 # Description
 
-This is a basic "ATM Machine".  Using css grids and a background image, I've replicated a simple to do list with the functionality of simulating the basic necessities of an ATM Machine. 
+This is a three-tier, web application of an ATM.  Using css grids and a background image, I've replicated a simple to do list with the functionality of simulating the basic necessities of an ATM Machine. 
 
 # How to Run
 
