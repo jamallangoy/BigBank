@@ -1,6 +1,6 @@
 # BigBank
 
-<img src="https://github.com/jamallangoy/BigBank/blob/master/public/images/Big%20Bank%20Snippet.PNG" width="200px" height="200px" />
+<img src="https://github.com/jamallangoy/BigBank/blob/master/public/images/Big%20Bank%20Snippet.PNG" width="600px" height="400px" />
 
 ## Version 1 - Week 27: Full-Stack ATM called "BigBank" (MIT XPro, November 2021)
 
