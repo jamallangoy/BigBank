@@ -1,0 +1,9 @@
+#root {
+    font-family: 'Arima Madurai', cursive;
+}
+
+.account-grid {
+    display: grid;
+    gap: 2px;
+    grid-template-columns: 1fr 1fr
+}
