@@ -1,6 +1,6 @@
 # BigBank
 
-<img src="https://cdn.pixabay.com/photo/2020/04/24/06/46/piggy-money-bank-5085515_1280.png" width="200px" height="200px" />
+<img src="https://github.com/jamallangoy/BigBank/blob/master/public/images/Big%20Bank%20Snippet.PNG" width="200px" height="200px" />
 
 ## Version 1 - Week 27: Full-Stack ATM called "BigBank" (MIT XPro, November 2021)
 
