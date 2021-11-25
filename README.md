@@ -45,5 +45,8 @@ Learn how to use REACT, FIREBASE AUTHENTICATION, EXPRESS SERVER, MONGO (DOCKER C
 # Code of conduct
 For learning purposes only...We are here to learn from each other...(Welcoming all coders, as well as Highly Experienced Coders) Your knowledge is key...Please share it!
 
+# License
+MIT
+
 # Contributing
 All suggestions are respectfully welcome! 
