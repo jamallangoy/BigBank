@@ -1,36 +1,12 @@
-const App = () => {
+import express from 'express';
+const app = express();
+import cors from 'cors';
 
-    const context = React.useContext(UserContext)
-    console.log(UserContext)
+app.use(express.static('public'))
+app.use(cors())
 
-    return (
-        <>
-            <HashRouter>
-                <Navbar />
-                <UserContext.Provider
-                    value={{users:[{
-                        name: "Jamall",
-                        email:"jamallangoy@gmail.com",
-                        password: "secret",
-                        balance: 100
-                    }]}}
-                >
-                    <Route path="/" exact component={Home} />
-                    <Route path="/createaccount" component={CreateAccount} />
-                    <Route path="/login"  component={Login} />
-                    <Route path="/account"  component={Account} />
-                    <Route path="/deposit"  component={Deposit} />
-                    <Route path="/withdraw"  component={Withdraw} />
-                    <Route path="/alldata"  component={AllData} />
-            
-                </UserContext.Provider>
-            </HashRouter>
-            
-        </>
-    )
-};
 
-ReactDOM.render(
-    <App />,
-    document.getElementById('root')
-)
+const port = 3000
+app.listen(port, (req, res) => {
+    console.log(`We are up and running on Port ${port}`)
+})
