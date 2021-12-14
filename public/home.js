@@ -6,7 +6,6 @@ const Home = () => {
 
 
     return(
-        <>
             <Template 
                 title={(
                     <>
@@ -23,6 +22,5 @@ const Home = () => {
                 
             />
             
-       </>
     )
 }
