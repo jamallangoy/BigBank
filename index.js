@@ -10,5 +10,3 @@ const port = 3000
 app.listen(port, (req, res) => {
     console.log(`We are up and running on Port ${port}`)
 })
-
-module.export = port
