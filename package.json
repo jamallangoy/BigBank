@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "node index.js",
-    "build": "npm run index.html"
+    "build": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "jest": "^27.4.5"
+    "jest": "^27.4.5",
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^3.0.0"
   }
 }
