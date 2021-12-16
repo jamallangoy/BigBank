@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "start": "node index.js",
-    "build": "npm run build"
+    "build": "npm run build",
+    "deploy": "npx firebase deploy"
   },
   "repository": {
     "type": "git",
